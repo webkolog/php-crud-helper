@@ -26,7 +26,10 @@ print_r($users);
 #### Update Data
 ```php
 $crud->update('users', ['surname' => 'Candan'], ['name' => 'Ali']);
-Delete Data
+```
+
+#### Delete Data
+```php
 $crud->delete('users', ['name' => 'Ali']);
 ```
 
