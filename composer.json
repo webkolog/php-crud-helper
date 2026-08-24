@@ -1,0 +1,30 @@
+{
+    "name": "webkolog/php-crud-helper",
+    "description": "A lightweight, clean, and modern object-oriented PHP helper class for CRUD operations.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ali Candan",
+            "email": "webkolog@gmail.com",
+            "homepage": "https://webkolog.net"
+        }
+    ],
+    "require": {
+        "php": ">=8.0",
+        "ext-pdo": "*"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Webkolog\\PhpCrudHelper\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Webkolog\\PhpCrudHelper\\Tests\\": "tests/"
+        }
+    }
+}
