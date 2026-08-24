@@ -2,6 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PHP Version Required](https://img.shields.io/badge/php-%3E%3D%208.0-8892bf.svg)](https://php.net)
+[![Run Tests](https://github.com/webkolog/php-crud-helper/actions/workflows/tests.yml/badge.svg)](https://github.com/webkolog/php-crud-helper/actions/workflows/tests.yml)
 
 **Version:** 1.0.0
 
